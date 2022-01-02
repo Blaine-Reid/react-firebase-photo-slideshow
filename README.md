@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In order to use this project, you will have to set up a firebase account (https://firebase.google.com/) and I suggest following the
+steps described in the video. You will need to replace the firebase/config.js firebaseConfig variable with the setup from your firebase account
+in order to use this project.
+
 ## Available Scripts
 
 In the project directory, you can run:
