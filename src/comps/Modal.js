@@ -1,12 +1,19 @@
 import React from "react";
+
+// COMMENT ONE OUT------------------------------------------------------------------------------
+
 // Found fix for issue on StackOverFlow... Had to change import loaction
 // fixes --->
 //  "Failed to compile
 // ./node_modules/framer-motion/dist/es/components/AnimatePresence/index.mjs
 // Can't import the named export 'Children' from non EcmaScript module (only default export is available)"
 import { motion } from 'framer-motion/dist/framer-motion'
+
 // If installing most recent Framer Motion, they fixed bugs. We can use --->
 import { motion } from 'framer-motoion
+// COMMENT ONE OUT
+
+// COMMENT ONE OUT------------------------------------------------------------------------------
 
 
 
